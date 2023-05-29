@@ -1,1 +1,4 @@
 call my name;
+git push --set-upstream origin add-link
+
+git push origin HEAD:add-call -f(push len khi da thay doi branch)
